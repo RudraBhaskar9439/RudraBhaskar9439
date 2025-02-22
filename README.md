@@ -35,7 +35,7 @@
 
     
 ```javascript
-const Yash = {
+const Rudra = {
   pronouns: "He" | "his",
   language: [Solidity, Foundry, C++, Python, C, Javascript, Typescript, Bash Terminal],
   frontend: [React JS, Javascript,Tailwind CSS, HTML, CSS],
