@@ -8,10 +8,10 @@
  
 
 <h5 align="center">
-  <code><a href="https://in.linkedin.com/in/yash-bhaskar" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/yash9439/" title="LeetCode Profile"><img width="22" src="images/leetcode.svg"> LeetCode</a></code>
-  <code><a href="https://codeforces.com/profile/yashBhaskar" title="Code Forces Profile"><img width="22" src="images/codeforces.svg"> CodeForces </a></code>
-  <code><a href="https://www.instagram.com/yashbhaskar653/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/rudra-bhaskar/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/u/Rudrabhaskar/" title="LeetCode Profile"><img width="22" src="images/leetcode.svg"> LeetCode</a></code>
+  <code><a href="https://codeforces.com/profile/Rudrabhaskar" title="Code Forces Profile"><img width="22" src="images/codeforces.svg"> CodeForces </a></code>
+  <code><a href="https://www.instagram.com/rudrabhaskar9439/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 
@@ -19,11 +19,11 @@
   <div style="flex: 1;">
 <p>
   <ul style="list-style-type: disc; padding-left: 20px;">
-    <li>Hi, I'm an undergraduate student researcher | LTRC, IIIT H</li>
+    <li>Hi, I'm an undergraduate student at LNMIIT Jaipur</li>
     <br>
-    <li>🔬 I'm currently studying for a B.Tech for Computer Science and MS for Computational Linguistics at IIIT Hyderabad.</li>
+    <li>🔬 I'm currently studying for a B.Tech for Electronics and Communication Engineering at LNMIIT Jaipur.</li>
     <br>
-    <li>📚 Currently expanding my knowledge and skills in Artificial Intelligence, Machine Learning, Natural Language Processing, and Data Science.</li>
+    <li>📚 Currently expanding my knowledge and skills in Blockchain, Web3, and WEB Development.</li>
   </ul>
   <br>
     
@@ -37,25 +37,24 @@
 ```javascript
 const Yash = {
   pronouns: "He" | "his",
-  language: [C++, Python, C, Javascript, Typescript],
-  frontend: [React, Javascript, Bootstrap, Materialize, HTML, CSS],
-  backend: [express, nodeJs],
-  miscellaneous: [Machine Learning, Natural Language Processing, MongoDB, Docker, Shell Scripting],
-  libraries: ["Pytorch", "Keras", "TensorFlow", "LangChain", "LayoutParser", "NLTK", "iNLTK", "WordNet"],
- challenge: "I am doing the #100DaysOfCode challenge focused on Competitive Programming"
+  language: [Solidity, Foundry, C++, Python, C, Javascript, Typescript, Bash Terminal],
+  frontend: [React JS, Javascript,Tailwind CSS, HTML, CSS],
+  miscellaneous: [Solidity, Foundry, Blockchain, Web3],
+//   libraries: ["Pytorch", "Keras", "TensorFlow", "LangChain", "LayoutParser", "NLTK", "iNLTK", "WordNet"],
+//  challenge: "I am doing the #100DaysOfCode challenge focused on Competitive Programming"
 }
 ```
     
 <br>
-  <strong>Connect with me at:  <code><a href="https://in.linkedin.com/in/yash-bhaskar" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code></strong>
+  <strong>Connect with me at:  <code><a href="https://www.linkedin.com/in/rudra-bhaskar/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code></strong>
   <ul style="list-style-type: disc; padding-left: 20px;">
     <br>
     📫 How to reach me:
     <ul> 
-    <li><a href="mailto:yash.bhaskar@research.iiit.ac.in"><strong style="color: skyblue;">Drop a Mail</strong></a></li>
-    <li><a href="https://in.linkedin.com/in/yash-bhaskar" title="LinkedIn Profile"><img width="22"> <strong style="color: skyblue;">Connect via LinkedIn</strong></a></li>
-    <li><a href="https://yash9439.github.io/" title="Personal Website"><img width="22"> <strong style="color: skyblue;">Visit My Website</strong></a></li>
-    <li><a href="https://medium.com/@yash9439" title="Articles"><img width="22"> <strong style="color: skyblue;">My Blogs</strong></a></li>
+    <li><a href="https://www.rbrudra9439@gmail.com"><strong style="color: skyblue;">Drop a Mail</strong></a></li>
+    <li><a href="https://www.linkedin.com/in/rudra-bhaskar/" title="LinkedIn Profile"><img width="22"> <strong style="color: skyblue;">Connect via LinkedIn</strong></a></li>
+    <li><a href="https://github.com/RudraBhaskar9439/Rudra9439" title="Personal Website"><img width="22"> <strong style="color: skyblue;">Visit My Website</strong></a></li>
+    <li><a href="https://medium.com/@rbrudra9439" title="Articles"><img width="22"> <strong style="color: skyblue;">My Blogs</strong></a></li>
     </ul>
   </ul>
 </p>
@@ -78,12 +77,12 @@ const Yash = {
 <p align="center">
   <div width="100%" align="left">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash9439&theme=dark&hide_border=false)
+  <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash9439&theme=dark&hide_border=false) -->
 
   </div>
 <!--   <div width="100%" align="right">
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash9439&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash9439&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
   </div> -->
 
