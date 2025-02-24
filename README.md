@@ -39,9 +39,7 @@ const Rudra = {
   pronouns: "He" | "his",
   language: [Solidity, Foundry, C++, Python, C, Javascript, Typescript, Bash Terminal],
   frontend: [React JS, Javascript,Tailwind CSS, HTML, CSS],
-  miscellaneous: [Solidity, Foundry, Blockchain, Web3],
-//   libraries: ["Pytorch", "Keras", "TensorFlow", "LangChain", "LayoutParser", "NLTK", "iNLTK", "WordNet"],
-//  challenge: "I am doing the #100DaysOfCode challenge focused on Competitive Programming"
+  miscellaneous: [Solidity, Foundry, Blockchain, Web3]
 }
 ```
     
