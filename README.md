@@ -28,6 +28,7 @@
   <br>
     
 <hr>
+<h1>My Resume: "https://drive.google.com/file/d/1NclZlciZTU54UkcIMYPq3TUo5354PqMt/view?usp=sharing"</h1>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
