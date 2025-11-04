@@ -44,7 +44,7 @@ const Rudra = {
 ```
     
 <br>
-<h3>My Resume: "https://drive.google.com/file/d/1NclZlciZTU54UkcIMYPq3TUo5354PqMt/view?usp=sharing"</h3>
+<h3>My Resume: "https://drive.google.com/file/d/1j5qkKrbJeatJyY1GcbbWEip7XXffOhFi/view?usp=sharing"</h3>
   <strong>Connect with me at:  <code><a href="https://www.linkedin.com/in/rudra-bhaskar/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code></strong>
   <ul style="list-style-type: disc; padding-left: 20px;">
     <br>
