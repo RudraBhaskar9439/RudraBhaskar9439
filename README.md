@@ -24,6 +24,8 @@
     <li>🔬 I'm currently studying for a B.Tech for Electronics and Communication Engineering at LNMIIT Jaipur.</li>
     <br>
     <li>📚 Currently expanding my knowledge and skills in Blockchain, Web3, and WEB Development.</li>
+    <br>
+    <li>🏆 Won 1st Place in ETHOnline 2025 (PythNetworks)</li>
   </ul>
   <br>
     
