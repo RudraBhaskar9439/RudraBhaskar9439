@@ -54,7 +54,7 @@ const Rudra = {
     <ul> 
     <li><a href="https://www.rbrudra9439@gmail.com"><strong style="color: skyblue;">Drop a Mail</strong></a></li>
     <li><a href="https://www.linkedin.com/in/rudra-bhaskar/" title="LinkedIn Profile"><img width="22"> <strong style="color: skyblue;">Connect via LinkedIn</strong></a></li>
-    <li><a href="https://github.com/RudraBhaskar9439/Rudra9439" title="Personal Website"><img width="22"> <strong style="color: skyblue;">Visit My Website</strong></a></li>
+    <li><a href="https://portfolio-three-self-17.vercel.app/" title="Personal Website"><img width="22"> <strong style="color: skyblue;">Visit My Website</strong></a></li>
     <li><a href="https://medium.com/@rbrudra9439" title="Articles"><img width="22"> <strong style="color: skyblue;">My Blogs</strong></a></li>
     </ul>
   </ul>
