@@ -39,9 +39,10 @@
 ```javascript
 const Rudra = {
   pronouns: "He" | "his",
-  language: [Solidity, Foundry, C++, Python, C, Javascript, Typescript, Bash ],
-  frontend: [React JS, Javascript,Tailwind CSS, HTML],
-  miscellaneous: [Solidity, Foundry, Blockchain, Web3, Numpy, Pandas]
+  language: [Solidity, Rust, Foundry, C++, Python, C, Javascript, Typescript, Bash ],
+  frontend: [React JS, Javascript,Tailwind CSS, HTML ],
+  backend: [node JS, express JS, mongoDB, supabase ],
+  miscellaneous: [Numpy, Pandas, Tensorflow, PythNetworks, Walrus, Rootstock, Uniswap V1/V2/V3/V4 ]
 }
 ```
     
