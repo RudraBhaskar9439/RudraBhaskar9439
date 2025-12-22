@@ -25,6 +25,8 @@
     <br>
     <li>📚 Currently expanding my knowledge and skills in Blockchain, Web3, and WEB Development.</li>
     <br>
+    <li>🔬 Uniswap Hook Incubation 6 Alumni</li>
+    <br>
     <li>🏆 Won 1st Place in ETHOnline 2025 (PythNetworks)</li>
   </ul>
   <br>
