@@ -34,7 +34,7 @@ I help businesses ship AI features fast. If you have documents, a workflow, or a
 | **AgentAlpha** | AI Hedge Fund Protocol — autonomous on-chain trading agent (AI + Web3) 🏆 *LNMHacks x402 winner* | [Live](https://x402-hedge-agent007.vercel.app) · [Code](https://github.com/RudraBhaskar9439/AgentAlpha) |
 | **Chat with PDFs (OCR)** | RAG assistant that answers questions from your PDFs — even scanned/image documents | [Live](https://imageocrwithpdfchatbot-qwzryccdxlj6vak4ixgwtn.streamlit.app/) · [Code](https://github.com/RudraBhaskar9439/ImageOCR_with_PDF_Chatbot) |
 | **VigilBot** | Real-time trading-bot detection on DEXs using smart contracts + Pyth oracle feeds 🏆 *ETHOnline 2025 winner ($1.5K)* | [Demo](https://youtu.be/HUvBbFOOsJM) · [Code](https://github.com/RudraBhaskar9439/VigilBot) |
-| **Vishwamitra** | Multi-agent reinforcement-learning environment (Meta × PyTorch RL Hackathon finalist) | [Code](https://github.com/RudraBhaskar9439/Vishwamitra) |
+| **Vishwamitra** | Multi-agent reinforcement-learning environment (Meta × PyTorch RL Hackathon finalist) | [Live](https://huggingface.co/spaces/rudra9439/vidya-meta-rl) · [Code](https://github.com/RudraBhaskar9439/Vishwamitra) |
 | **ML Data Illustrator** | Web app to build, train & evaluate ML models with an interactive UI | [Live](https://machinelearningdataillustrator-3r8mbuverjznjg9db2jf6e.streamlit.app/) · [Code](https://github.com/RudraBhaskar9439/Machine_Learning_Data_Illustrator) |
 
 ---
