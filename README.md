@@ -1,124 +1,110 @@
+<h1 align="center">Hi, I'm Rudra Bhaskar 👋</h1>
 
-<br> 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rudra+Bhaskar..;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
- 
+<p align="center">
+  <b>AI / ML Engineer · LLM &amp; RAG Applications · Backend Developer</b><br>
+  I build AI assistants, RAG chatbots, and production backends that turn messy data into reliable, cited answers.
+</p>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/rudra-bhaskar/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/u/Rudrabhaskar/" title="LeetCode Profile"><img width="22" src="images/leetcode.svg"> LeetCode</a></code>
-  <code><a href="https://codeforces.com/profile/Rudrabhaskar" title="Code Forces Profile"><img width="22" src="images/codeforces.svg"> CodeForces </a></code>
-  <code><a href="https://www.instagram.com/rudrabhaskar9439/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudra-bhaskar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:rbrudra9439@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://medium.com/@rbrudra9439"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://portfolio-three-self-17.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="./Rudra_Bhaskar_Resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-blue?style=for-the-badge"></a>
+</p>
 
-<div style="display: flex;">
-  <div style="flex: 1;">
+---
+
+### 💼 Available for freelance & contract work
+
+I help businesses ship AI features fast. If you have documents, a workflow, or a backend you want to make smarter, I can build it.
+
+**What I build for clients:**
+- 🤖 **"Chat with your documents"** assistants (RAG) — accurate, **cited** answers from your own files, including scanned PDFs (OCR)
+- 💬 **Custom AI chatbots & agents** — support bots, internal knowledge tools, agents that take real actions via tools
+- 🧠 **LLM integrations** — extract structured data from messy text, classification, summarization, evaluation
+- ⚙️ **Production Python / FastAPI backends** — auth, rate limiting, vector search (pgvector), PostgreSQL — built securely
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does | Links |
+|---|---|---|
+| **AgentAlpha** | AI Hedge Fund Protocol — autonomous on-chain trading agent (AI + Web3) 🏆 *LNMHacks x402 winner* | [Live](https://x402-hedge-agent007.vercel.app) · [Code](https://github.com/RudraBhaskar9439/AgentAlpha) |
+| **Chat with PDFs (OCR)** | RAG assistant that answers questions from your PDFs — even scanned/image documents | [Live](https://imageocrwithpdfchatbot-qwzryccdxlj6vak4ixgwtn.streamlit.app/) · [Code](https://github.com/RudraBhaskar9439/ImageOCR_with_PDF_Chatbot) |
+| **VigilBot** | Real-time trading-bot detection on DEXs using smart contracts + Pyth oracle feeds 🏆 *ETHOnline 2025 winner ($1.5K)* | [Demo](https://youtu.be/HUvBbFOOsJM) · [Code](https://github.com/RudraBhaskar9439/VigilBot) |
+| **Vishwamitra** | Multi-agent reinforcement-learning environment (Meta × PyTorch RL Hackathon finalist) | [Code](https://github.com/RudraBhaskar9439/Vishwamitra) |
+| **ML Data Illustrator** | Web app to build, train & evaluate ML models with an interactive UI | [Live](https://machinelearningdataillustrator-3r8mbuverjznjg9db2jf6e.streamlit.app/) · [Code](https://github.com/RudraBhaskar9439/Machine_Learning_Data_Illustrator) |
+
+---
+
+### 🛠️ Tech Stack
+
+**AI / ML**
 <p>
-  <ul style="list-style-type: disc; padding-left: 20px;">
-    <li>Hi, I'm an undergraduate student at LNMIIT Jaipur</li>
-    <br>
-    <li>🔬 I'm currently studying for a B.Tech for Electronics and Communication Engineering at LNMIIT Jaipur.</li>
-    <br>
-    <li>📚 Currently expanding my knowledge and skills in Blockchain, Web3, and WEB Development.</li>
-    <br>
-    <li>🔬 Uniswap Hook Incubation 6 Alumni</li>
-    <br>
-    <li>🏆 Won 1st Place in ETHOnline 2025 (PythNetworks)</li>
-  </ul>
-  <br>
-    
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-    
-```javascript
-const Rudra = {
-  pronouns: "He" | "his",
-  language: [Solidity, Rust, Foundry, C++, Python, C, Javascript, Typescript, Bash ],
-  frontend: [React JS, Javascript,Tailwind CSS, HTML ],
-  backend: [Node JS, Express JS, MongoDB, Supabase ],
-  miscellaneous: [Numpy, Pandas, Tensorflow, PythNetworks, Walrus, Rootstock, Uniswap V1/V2/V3/V4 ]
-}
-```
-    
-<br>
-<h3>My Resume: "https://drive.google.com/file/d/1j5qkKrbJeatJyY1GcbbWEip7XXffOhFi/view?usp=sharing"</h3>
-  <strong>Connect with me at:  <code><a href="https://www.linkedin.com/in/rudra-bhaskar/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code></strong>
-  <ul style="list-style-type: disc; padding-left: 20px;">
-    <br>
-    📫 How to reach me:
-    <ul> 
-    <li><a href="https://www.rbrudra9439@gmail.com"><strong style="color: skyblue;">Drop a Mail</strong></a></li>
-    <li><a href="https://www.linkedin.com/in/rudra-bhaskar/" title="LinkedIn Profile"><img width="22"> <strong style="color: skyblue;">Connect via LinkedIn</strong></a></li>
-    <li><a href="https://portfolio-three-self-17.vercel.app/" title="Personal Website"><img width="22"> <strong style="color: skyblue;">Visit My Website</strong></a></li>
-    <li><a href="https://medium.com/@rbrudra9439" title="Articles"><img width="22"> <strong style="color: skyblue;">My Blogs</strong></a></li>
-    </ul>
-  </ul>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
 </p>
 
-  </div>
-  <div style="flex: 1;">
-    <img alt="Coder GIF" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
-  </div>
-</div>
-
-
-
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-
-<hr>
-<br>
-<p align="center">
-  <div width="100%" align="left">
-  
-  <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash9439&theme=dark&hide_border=false) -->
-
-  </div>
-<!--   <div width="100%" align="right">
-
-  <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash9439&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-
-  </div> -->
-
-  
-
+**Backend & Web**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
 </p>
 
-<!-- 
-[![Screenshot-from-2023-05-26-11-38-49.png](https://i.postimg.cc/kgvmqyJg/Screenshot-from-2023-05-26-11-38-49.png)](https://postimg.cc/4YyM1VHD)
+**Languages & Web3**
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/Foundry-000000?style=flat&logo=foundry&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+</p>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=yash9439&style=plastic&label=Profile+Views+@'yash9439' alt=yash9439/> </p>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/yash9439/NLP-ProjectArchive" title="NLP-ProjectArchive"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=NLP-ProjectArchive&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/yash9439/reddit-clone" title="reddit-clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=reddit-clone&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/yash9439/Algorithms-Collection" title="Algorithms-Collection"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=Algorithms-Collection&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/yash9439/ASM-Code" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=ASM-Code&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/> -->
-<!-- <div width="100%" align="center">
-  <a align="left" href="https://github.com/yash9439/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/yash9439/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/> -->
+---
 
-<!-- <br/><br/><br/><br/><br/><br/>
+### 🏆 Highlights & Credentials
 
+- 📄 **Co-author**, ACL ARR 2026 submission — *DistillBeam: Multi-Trajectory Knowledge Distillation for Efficient Speculative Decoding* (35–65% inference speedup)
+- 🧑‍🏫 **Google Summer of Code 2026 Mentor**, OWASP Foundation
+- 🔬 **Summer Research Intern**, LNMIIT — impermanent loss & LVR in Uniswap v4
+- 🥇 **1st Place — ETHOnline 2025** (Pyth Network Track, $1,500)
+- 🥇 **1st Place — LNMHacks 8.0** (x402 Track, $600)
+- 🎯 **Finalist**, Meta × Scaler Reinforcement Learning Hackathon 2026 (on-site finals, Bengaluru)
+- ✍️ **30+ technical articles** on ML, Web3 & DeFi · 5K+ reads · 200K+ social impressions
+- 🎓 **B.Tech, Electronics & Communication Engineering**, LNMIIT Jaipur
 
-<h4 align="center">
-  <a href="https://github.com/yash9439?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4> -->
- 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RudraBhaskar9439&show_icons=true&theme=react&hide_border=true&count_private=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraBhaskar9439&layout=compact&theme=react&hide_border=true&langs_count=8">
+</p>
+
+---
+
+### 📫 Let's work together
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudra-bhaskar/"><b>LinkedIn</b></a> ·
+  <a href="mailto:rbrudra9439@gmail.com"><b>Email</b></a> ·
+  <a href="https://portfolio-three-self-17.vercel.app/"><b>Portfolio</b></a> ·
+  <a href="./Rudra_Bhaskar_Resume.pdf"><b>Resume</b></a>
+</p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=RudraBhaskar9439&style=flat&color=blue" alt="profile views"></p>
