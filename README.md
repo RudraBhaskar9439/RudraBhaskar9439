@@ -81,10 +81,11 @@ I help businesses ship AI features fast. If you have documents, a workflow, or a
 - 📄 **Co-author**, ACL ARR 2026 submission — *DistillBeam: Multi-Trajectory Knowledge Distillation for Efficient Speculative Decoding* (35–65% inference speedup)
 - 🧑‍🏫 **Google Summer of Code 2026 Mentor**, OWASP Foundation
 - 🔬 **Summer Research Intern**, LNMIIT — impermanent loss & LVR in Uniswap v4
+- 🥉 **3rd Place — UHI Hookathon** (Reactive Network Track, $1000)
 - 🥇 **1st Place — ETHOnline 2025** (Pyth Network Track, $1,500)
 - 🥇 **1st Place — LNMHacks 8.0** (x402 Track, $600)
 - 🎯 **Finalist**, Meta × Scaler Reinforcement Learning Hackathon 2026 (on-site finals, Bengaluru)
-- ✍️ **30+ technical articles** on ML, Web3 & DeFi · 5K+ reads · 200K+ social impressions
+- ✍️ **30+ technical articles** on ML, Web3 & DeFi · 5K+ reads · 900K+ social impressions
 - 🎓 **B.Tech, Electronics & Communication Engineering**, LNMIIT Jaipur
 
 ---
